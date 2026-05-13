@@ -13,7 +13,8 @@ Este repositório contém todos os arquivos necessários para replicar o projeto
 
 ## 📺 Assista ao Vídeo do Projeto
 
-Assista ao passo a passo aqui: [Clique para ver o vídeo no YouTube]([https://www.youtube.com/watch?v=SEU_ID_AQUI](https://youtu.be/nPQnve32v9o))
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/nPQnve32v9o)
+
 ---
 
 ## 📋 Descrição do Projeto
