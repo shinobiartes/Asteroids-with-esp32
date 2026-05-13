@@ -41,3 +41,9 @@ Neste projeto, utilizamos um **ESP32** para [recriar o universo de Asteroids usa
 
 ---
 💡 *Gostou? Não esqueça de se inscrever no canal e deixar o like!*
+
+## 📺 Follow me on You tube
+
+[![Visite meu canal](shinobi_capa.png)]([https://www.youtube.com/@m_p_projetos](https://bit.ly/3yXpPeC))
+
+https://bit.ly/3yXpPeC
