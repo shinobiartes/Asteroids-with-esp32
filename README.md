@@ -1,10 +1,10 @@
 # 🚀 [Rodando Asteroid com ESP32]
 
 ## 📸 ASTEROIDS WITH ESP32
-![Menu](asteroid2.png)
+![Menu](asteroid2.jpg)
 
 ## 📸 Circuito e Montagem
-![Esquema do Projeto](asteroid.png)
+![Esquema do Projeto](asteroid.jpg)
 
 
 Este repositório contém todos os arquivos necessários para replicar o projeto apresentado no canal **[ShinobiArts]**.
