@@ -1,6 +1,6 @@
 # 🚀 [Rodando Asteroid com ESP32]
 
-## 📸 DOOM WITH ESP32
+## 📸 ASTEROIDS WITH ESP32
 ![Menu](asteroid2.png)
 
 ## 📸 Circuito e Montagem
